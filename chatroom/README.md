@@ -3,6 +3,7 @@
 To start your Phoenix server:
 
 - Run `mix setup` to install and setup dependencies
+- Run `npm install` to ensure JS dependencies are handled
 - Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
 
 Now you can visit [`localhost:4000/chat`](http://localhost:4000/chat) from your browser to test out the chat room. Use multiple tabs to chat back and forth.
