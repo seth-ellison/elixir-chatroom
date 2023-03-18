@@ -3,7 +3,7 @@ import Config
 # Configure your database
 config :chatroom, Chatroom.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "Co7X#4g7t*j@s!7otFfu",
   hostname: "localhost",
   database: "chatroom_dev",
   stacktrace: true,
