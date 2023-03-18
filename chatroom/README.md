@@ -9,11 +9,11 @@ Now you can visit [`localhost:4000/chat`](http://localhost:4000/chat) from your 
 
 ## Client 1
 
-!(image)[https://i.imgur.com/1fEJTKM.png]
+![image](https://i.imgur.com/1fEJTKM.png)
 
 ## Client 2
 
-!(image)[https://i.imgur.com/6iQQk5H.png]
+![image](https://i.imgur.com/6iQQk5H.png)
 
 Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
 
